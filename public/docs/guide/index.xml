@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site – Guide</title>
+    <title>hextra learner – Guide</title>
     <link>http://localhost:1313/docs/guide/</link>
-    <description>Recent content in Guide on My New Hugo Site</description>
+    <description>Recent content in Guide on hextra learner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jul 2024 23:56:43 +0530</lastBuildDate>

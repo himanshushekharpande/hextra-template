@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site – Docs</title>
+    <title>hextra learner – Docs</title>
     <link>http://localhost:1313/docs/</link>
-    <description>Recent content in Docs on My New Hugo Site</description>
+    <description>Recent content in Docs on hextra learner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jul 2024 23:51:58 +0530</lastBuildDate>
@@ -24,7 +24,8 @@
       <description>
         
         
-        
+        &lt;p&gt;&lt;img src=&#34;pebbles-colorful-002.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
       </description>
     </item>
     
